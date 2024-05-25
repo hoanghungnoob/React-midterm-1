@@ -5,18 +5,23 @@ export const ALL_PNV_TEACHERS = [
     title: "IT Trainer",
   },
   {
-    firstName: "sd",
-    lastName: "Ngo",
+    firstName: "Hai",
+    lastName: "Nguyen",
+    title: "Education",
+  },
+  {
+    firstName: "Truc",
+    lastName: "Tran",
+    title: "Deputy Traning Manager",
+  },
+  {
+    firstName: "Thuy",
+    lastName: "Le",
     title: "IT Trainer",
   },
   {
-    firstName: "sadad",
-    lastName: "Ngo",
-    title: "IT Trainer",
-  },
-  {
-    firstName: "asdadsad",
-    lastName: "Ngo",
-    title: "IT Trainer",
+    firstName: "Vinh",
+    lastName: "Hoang Nhu",
+    title: "Tranning Manager",
   },
 ];
